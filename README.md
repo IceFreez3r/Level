@@ -34,16 +34,16 @@ Afterwards [Download](https://developer.android.com/studio) and extract to `/usr
 ### Flutter SDK
 
 Depending on your IDE:
-<details>
-<summary>VSCode</summary>
+<details><summary>VSCode</summary>
+
 - Run `Flutter: New Project`
 - Click 'Download SDK' in the prompt
 - Select a directory, where the SDK will be cloned
 - Wait
 - When asked for an application type, cancel (Esc)
 </details>
-<details>
-<summary>Other</summary>
+<details><summary>Other</summary>
+
 [Download](https://storage.googleapis.com/flutter_infra_release/releases/stable/linux/flutter_linux_3.24.5-stable.tar.xz) and extract it somewhere.
 </details>
 
