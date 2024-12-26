@@ -1,0 +1,3 @@
+[submodule "experiments/automerge-repo-quickstart"]
+	path = experiments/automerge-repo-quickstart
+	url = git@github.com:IceFreez3r/automerge-repo-quickstart.git
